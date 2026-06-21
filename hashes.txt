@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Pasión 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T05:16:00.151594 | `v1` | `0a9cde8847ae13eed8301b468c7bcacd34ae7eadd02aeb20257b7416e754221b` | `3b2e3e2e4335d728ef8e91b03da0ffcb713fee80a488cbd95544b2b7e3b158de` | `2026-06-22_pasion-en-el-paraiso-v1.txt` |
+| 2026-06-22T05:56:41.502178 | `v2` | `2b506fa9d523f0e2dbc6da5cf93d447010b86bfdfb3be66df5da9c880feeab1c` | `4682aa7875876b98e1b960e159a79e9bab54572554c68054a5317203e455d5f9` | `2026-06-22_pasion-en-el-paraiso-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
