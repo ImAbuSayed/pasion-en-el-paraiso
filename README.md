@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-el-paraiso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pasión en el paraíso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-el-paraiso/) |
+| **Get License** | [Obtain a Music License for Pasión en el paraíso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-el-paraiso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La noche está oscura, pero tú brillas, bebé
+> Solo con mirarte, you got me crazy, lo sé
+> Bajo las luces de Madrid, la disco es nuestra
+> Sube la tensión, cada paso lo demuestra
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
