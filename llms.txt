@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-el-paraiso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pasión en el paraíso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-el-paraiso/) |
+| **Get License** | [Obtain a Music License for Pasión en el paraíso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-el-paraiso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3996)
+- [Telegram](https://t.me/AbuSayedMusic/4008)
 
 ---
 
